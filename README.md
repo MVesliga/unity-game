@@ -1,2 +1,1 @@
-# unity-game
-Unity project
+# unity
